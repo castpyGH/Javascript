@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório de estudos de JavaScript! Aqui você encontrará uma coleção de conteúdos e exemplos práticos para ajudar no seu aprendizado dessa poderosa linguagem de programação.
 
 **Acompanhe no Notion** 
-[https://www.notion.so/castpy/Readme-b2f4cade202b41d2adf1f98e32473ee8?pvs=4#540ca5cff30f43de9180835dd5c2949f](https://www.notion.so/castpy/JAVASCRIPT-4a0adb7d2bb04381a8dfe98920b1ef8c?pvs=4)
+https://castpy.notion.site/JAVASCRIPT-4a0adb7d2bb04381a8dfe98920b1ef8c
 
 ## **Conteúdo do Repositório**
 
