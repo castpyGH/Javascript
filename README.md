@@ -1,5 +1,3 @@
-# Readme
-
 # **Repositório de Estudos de JavaScript**
 
 Bem-vindo ao meu repositório de estudos de JavaScript! Aqui você encontrará uma coleção de conteúdos e exemplos práticos para ajudar no seu aprendizado dessa poderosa linguagem de programação.
