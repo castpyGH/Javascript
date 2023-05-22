@@ -2,6 +2,9 @@
 
 Bem-vindo ao meu repositório de estudos de JavaScript! Aqui você encontrará uma coleção de conteúdos e exemplos práticos para ajudar no seu aprendizado dessa poderosa linguagem de programação.
 
+**Acompanhe no Notion** 
+https://castpy.notion.site/JAVASCRIPT-4a0adb7d2bb04381a8dfe98920b1ef8c
+
 ## **Conteúdo do Repositório**
 
 O repositório está organizado em diferentes seções, abrangendo tópicos essenciais e avançados do JavaScript. Aqui está uma visão geral do conteúdo disponível:
